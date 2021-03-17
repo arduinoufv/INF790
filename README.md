@@ -27,4 +27,6 @@ Seminários em Aprendizado de Máquina
 * 18/6 **Aprendizado por Reforço** Levi Lelis DPI/UFV and University of Alberta 
 * 25/6 **Linguagens Naturais** Daniel Paiva 
 
+# Questinários 
 
+* 19/3 [**High Performance** ]()
