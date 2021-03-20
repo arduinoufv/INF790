@@ -12,7 +12,7 @@ Seminários em Aprendizado de Máquina
 # Seminários (em atualização)
 
 
-* 19/3 **High Performance** - Ricardo Ferreira  DPI/UFV
+* 19/3 [Vídeo: **High Performance**](https://youtu.be/YfeU6k6XUCI) [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSRwqCBeiQH1hrH7vpR_Lt1cJFGRGcIeDVooxD47bC0aSSwycIQJhimL4Ka4Jdko3PERGlmKyOEQ4mf/pub?start=false&loop=false&delayms=3000) - Ricardo Ferreira  DPI/UFV- [Questionário](https://docs.google.com/forms/d/e/1FAIpQLSc6wXrQA6NplZa5a5zS41LLvwSF4f5EmEC7S7l_r9_OhW1Avg/viewform?usp=sf_link)
 * 26/3 **Disinformation and Misinformation** - Julio Reis - DPI/UFV
 * 9/4 **Redes Neurais** - Antonio Braga UFMG
 * 16/4 **Aprendizado de Máquinas e Estatística, a íntima relação entre estas áreas**   Marcos Ribeiro- DPI/UFV
