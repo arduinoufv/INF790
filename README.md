@@ -27,6 +27,7 @@ Seminários em Aprendizado de Máquina
 * 18/6 **Aprendizado por Reforço** Levi Lelis DPI/UFV and University of Alberta 
 * 25/6 **Linguagens Naturais** Daniel Paiva 
 
-# Questinários 
+# Avaliação
 
-* 19/3 [**High Performance** ]()
+* [Detalhes]()
+* [Estrutura para preparar a apresentação do Artigo (baseado sugestões Prof. Onur Mutlu ETH)](https://github.com/arduinoufv/INF790/blob/main/INF790_rot.pdf)
