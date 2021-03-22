@@ -1,4 +1,4 @@
-# Questinário - 50 pontos
+# Questionário - 50 pontos
 
 # Apresentação de dois artigos - 50 pontos
 
