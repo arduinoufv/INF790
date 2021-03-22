@@ -29,5 +29,5 @@ Seminários em Aprendizado de Máquina
 
 # Avaliação
 
-* [Detalhes]()
+* [Detalhes](https://github.com/arduinoufv/INF790/tree/main/avalia%C3%A7%C3%A3o)
 * [Estrutura para preparar a apresentação do Artigo (baseado sugestões Prof. Onur Mutlu ETH)](https://github.com/arduinoufv/INF790/blob/main/INF790_rot.pdf)
