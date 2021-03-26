@@ -13,7 +13,7 @@ Seminários em Aprendizado de Máquina
 
 
 * 19/3 [Vídeo: **High Performance**](https://youtu.be/YfeU6k6XUCI) [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSRwqCBeiQH1hrH7vpR_Lt1cJFGRGcIeDVooxD47bC0aSSwycIQJhimL4Ka4Jdko3PERGlmKyOEQ4mf/pub?start=false&loop=false&delayms=3000) - Ricardo Ferreira  DPI/UFV- [Questionário](https://docs.google.com/forms/d/e/1FAIpQLSc6wXrQA6NplZa5a5zS41LLvwSF4f5EmEC7S7l_r9_OhW1Avg/viewform?usp=sf_link)
-* 26/3 **Disinformation and Misinformation** - Julio Reis - DPI/UFV
+* 26/3 [Vídeo: **Disinformation and Misinformation**](https://youtu.be/kuwXt3oi8EA) - Julio Reis - DPI/UFV
 
 ```Resumo: As plataformas digitais, como as redes sociais online e aplicativos para a troca de mensagens como o WhatsApp, mudaram drasticamente a forma como as notícias são produzidas, disseminadas e consumidas em nossa sociedade. Um problema fundamental hoje é que as plataformas digitais se tornaram espaços amplamente abusados por campanhas de desinformação que afetam a credibilidade de todo o ecossistema de notícias. O surgimento de notícias falsas nesses ambientes evoluiu rapidamente para um fenômeno mundial, onde a falta de estratégias escaláveis de verificação de fatos é preocupante. Neste contexto, essa palestra tem como objetivo discutir como soluções automáticas baseadas em aprendizado de máquina podem ser úteis para mitigar os problemas causados pela disseminação de desinformação em plataformas digitais.```
 
