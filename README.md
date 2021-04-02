@@ -25,7 +25,7 @@ Seminários em Aprendizado de Máquina
 * 14/5 **Drones**  Alexandre Brandao DEL/UFV
 * 21/5 **Computer Vision**  Michel Silva DPI/UFV
 * 28/5 **Não Supervisionado - Redução de dimensionalidade** Giovanni Comarela UFES
-* 4/6  **Aprendizado de Maquina na Área da Saúde** Fábio Cerqueira UFF
+* 4/6  **Aprendizado de máquina para genômica** Fábio Cerqueira UFF
 * 11/6 **Random Forest** - Raphael Campos, Google 
 * 18/6 **Aprendizado por Reforço** Levi Lelis DPI/UFV and University of Alberta 
 * 25/6 **Linguagens Naturais** Daniel Paiva 
