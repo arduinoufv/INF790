@@ -17,8 +17,8 @@ Seminários em Aprendizado de Máquina
 
 ```Resumo: As plataformas digitais, como as redes sociais online e aplicativos para a troca de mensagens como o WhatsApp, mudaram drasticamente a forma como as notícias são produzidas, disseminadas e consumidas em nossa sociedade. Um problema fundamental hoje é que as plataformas digitais se tornaram espaços amplamente abusados por campanhas de desinformação que afetam a credibilidade de todo o ecossistema de notícias. O surgimento de notícias falsas nesses ambientes evoluiu rapidamente para um fenômeno mundial, onde a falta de estratégias escaláveis de verificação de fatos é preocupante. Neste contexto, essa palestra tem como objetivo discutir como soluções automáticas baseadas em aprendizado de máquina podem ser úteis para mitigar os problemas causados pela disseminação de desinformação em plataformas digitais.```
 
-* 9/4 [**Redes Neurais**](https://youtu.be/F0to9MTqEhY) - Antonio Braga UFMG
-* 16/4 [**Aprendizado de Máquinas e Estatística, a íntima relação entre estas áreas**](https://youtu.be/UsJtN9LSK-E)   Marcos Ribeiro- DPI/UFV
+* 9/4 [**Redes Neurais**](https://youtu.be/F0to9MTqEhY) - Antonio Braga UFMG [Questionário](https://docs.google.com/forms/d/e/1FAIpQLScZ_Ns3tT8ej_lazLBjt0QjFHBgz7bZGguwtg9fv_NP1ccHUw/viewform?usp=sf_link)
+* 16/4 [**Aprendizado de Máquinas e Estatística, a íntima relação entre estas áreas**](https://youtu.be/UsJtN9LSK-E)   Marcos Ribeiro- DPI/UFV [Questionário](https://docs.google.com/forms/d/e/1FAIpQLSdP15baDQG6nx6ussWVFpS25RWaSpJgCeOIkkyGo-9h4z6-gQ/viewform?usp=sf_link)
 * 23/4 **Convolutional Networks** Keiller Nogueira,  University of Stirling -  CNN
 * 30/4 **Data Visualization** - Sabrina Azevedo - DPI/UFV
 * 7/5 **Transformers** Alcione Paiva - DPI/UFV
