@@ -19,7 +19,7 @@ Seminários em Aprendizado de Máquina
 
 * 9/4 [**Redes Neurais**](https://youtu.be/F0to9MTqEhY) - Antonio Braga UFMG [Questionário](https://docs.google.com/forms/d/e/1FAIpQLScZ_Ns3tT8ej_lazLBjt0QjFHBgz7bZGguwtg9fv_NP1ccHUw/viewform?usp=sf_link)
 * 16/4 [**Aprendizado de Máquinas e Estatística, a íntima relação entre estas áreas**](https://youtu.be/UsJtN9LSK-E)   Marcos Ribeiro- DPI/UFV [Questionário](https://docs.google.com/forms/d/e/1FAIpQLSdP15baDQG6nx6ussWVFpS25RWaSpJgCeOIkkyGo-9h4z6-gQ/viewform?usp=sf_link)
-* 23/4 **Convolutional Networks** Keiller Nogueira,  University of Stirling -  CNN
+* 23/4 [**Convolutional Networks** Keiller Nogueira,  University of Stirling -  An Overview of Convolutional Neural Network](https://youtu.be/ZKcB0L5VGJs)
 * 30/4 **Data Visualization** - Sabrina Azevedo - DPI/UFV
 * 7/5 **Transformers** Alcione Paiva - DPI/UFV
 * 14/5 **Drones**  Alexandre Brandao DEL/UFV
