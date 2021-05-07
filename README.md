@@ -21,7 +21,7 @@ Seminários em Aprendizado de Máquina
 * 16/4 [**Aprendizado de Máquinas e Estatística, a íntima relação entre estas áreas**](https://youtu.be/UsJtN9LSK-E)   Marcos Ribeiro- DPI/UFV [Questionário](https://docs.google.com/forms/d/e/1FAIpQLSdP15baDQG6nx6ussWVFpS25RWaSpJgCeOIkkyGo-9h4z6-gQ/viewform?usp=sf_link)
 * 23/4 [**Convolutional Networks** Keiller Nogueira,  University of Stirling -  An Overview of Convolutional Neural Network](https://youtu.be/ZKcB0L5VGJs) [Questionário](https://forms.gle/gYcnGjh54K14GErQ6)
 * 30/4 [**Data Visualization** - Sabrina Azevedo - DPI/UFV](https://youtu.be/fxpgwuP28Gg)
-* 7/5 **Transformers** Alcione Paiva - DPI/UFV
+* 7/5 [**Linguistica Computacional e Transformers** Alcione Paiva - DPI/UFV](https://youtu.be/QpNUz5xhFlE)
 * 14/5 **Drones**  Alexandre Brandao DEL/UFV
 * 21/5 **Computer Vision**  Michel Silva DPI/UFV
 * 28/5 **Não Supervisionado - Redução de dimensionalidade** Giovanni Comarela UFES
