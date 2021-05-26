@@ -23,12 +23,12 @@ Seminários em Aprendizado de Máquina
 * 30/4 [**Data Visualization** - Sabrina Azevedo - DPI/UFV](https://youtu.be/fxpgwuP28Gg)  [Questionário](https://forms.gle/RsgWnRUafitJBa1m9)
 * 7/5 [**Linguistica Computacional e Transformers** Alcione Paiva - DPI/UFV](https://youtu.be/QpNUz5xhFlE)
 * 14/5 [**Drones**  Alexandre Brandao DEL/UFV](https://youtu.be/l-Yu5hYTKWs)
-* 21/5 **Computer Vision**  Michel Silva DPI/UFV
+* 21/5 [**Computer Vision**  Michel Silva DPI/UFV](https://youtu.be/f5DDRV5rbl0)
 * 28/5 **Não Supervisionado - Redução de dimensionalidade** Giovanni Comarela UFES
 * 4/6  **Aprendizado de máquina para genômica** Fábio Cerqueira UFF
 * 11/6 **Random Forest** - Raphael Campos, Google 
-* 18/6 **Aprendizado por Reforço** Levi Lelis DPI/UFV and University of Alberta 
-* 25/6 **Linguagens Naturais** Daniel Paiva 
+* 22/6 **Aprendizado por Reforço** Levi Lelis DPI/UFV and University of Alberta 
+* 2/7 **Linguagens Naturais** Daniel Paiva 
 
 # Avaliação
 
