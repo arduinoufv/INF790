@@ -23,7 +23,7 @@ Seminários em Aprendizado de Máquina
 * 30/4 [**Data Visualization** - Sabrina Azevedo - DPI/UFV](https://youtu.be/fxpgwuP28Gg)  [Questionário](https://forms.gle/RsgWnRUafitJBa1m9)
 * 7/5 [**Linguistica Computacional e Transformers** Alcione Paiva - DPI/UFV](https://youtu.be/QpNUz5xhFlE)
 * 14/5 [**Drones**  Alexandre Brandao DEL/UFV](https://youtu.be/l-Yu5hYTKWs)
-* 21/5 [**Computer Vision**  Michel Silva DPI/UFV](https://youtu.be/f5DDRV5rbl0)
+* 21/5 [**Computer Vision**  Michel Silva DPI/UFV](https://youtu.be/f5DDRV5rbl0) + [slides](https://docs.google.com/presentation/d/1nabK4FheAP0a16oGBphgP4RvVLn6mKL_2tvgZK57RHc/edit?usp=sharing)
 * 28/5 [**Não Supervisionado - Redução de dimensionalidade** Giovanni Comarela UFES](https://youtu.be/b0mxU82Ye40)
 * [Colab da Aula](https://colab.research.google.com/drive/1rVlmlhpYpy5jW9RFSwmyylzmVsQkVyHq?usp=sharing)  
 * [Sugestão de Leitura Cap 6 e 7](https://dataminingbook.info/)
