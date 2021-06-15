@@ -27,7 +27,7 @@ Seminários em Aprendizado de Máquina
 * 28/5 [**Não Supervisionado - Redução de dimensionalidade** Giovanni Comarela UFES](https://youtu.be/b0mxU82Ye40)
 * [Colab da Aula](https://colab.research.google.com/drive/1rVlmlhpYpy5jW9RFSwmyylzmVsQkVyHq?usp=sharing)  
 * [Sugestão de Leitura Cap 6 e 7](https://dataminingbook.info/)
-* 4/6  **Aprendizado de máquina para genômica** Fábio Cerqueira UFF
+* 4/6  [**Aprendizado de máquina para genômica** Fábio Cerqueira UFF](https://youtu.be/HSdlUK9dU6A)
 * 11/6 **Random Forest** - Raphael Campos, Google 
 * 22/6 **Aprendizado por Reforço** Levi Lelis DPI/UFV and University of Alberta 
 * 2/7 **Linguagens Naturais** Daniel Paiva 
