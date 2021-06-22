@@ -29,7 +29,7 @@ Seminários em Aprendizado de Máquina
 * [Sugestão de Leitura Cap 6 e 7](https://dataminingbook.info/)
 * 4/6  [**Aprendizado de máquina para genômica** Fábio Cerqueira UFF](https://youtu.be/HSdlUK9dU6A)
 * 11/6 **Random Forest** - Raphael Campos, Google 
-* 22/6 **Aprendizado por Reforço** Levi Lelis DPI/UFV and University of Alberta 
+* 22/6 [**Aprendendo políticas e heurísticas com busca em árvore** Levi Lelis DPI/UFV and University of Alberta](https://youtu.be/YU6Oyd_JVzI)
 * 2/7 **Linguagens Naturais** Daniel Paiva 
 
 # Avaliação
